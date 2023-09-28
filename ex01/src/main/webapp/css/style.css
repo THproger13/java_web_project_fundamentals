@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+*{
+	font-family: 'Gugi', cursive;
+}
+
+a {
+	margin:10px;
+}
+
+@media screen and (max-width: 960px) {
+   #img_header { 
+	   display: none; 
+   }
+}
